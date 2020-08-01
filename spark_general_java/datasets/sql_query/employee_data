@@ -1,0 +1,12 @@
+CREATE TABLE employee_data
+(
+t_primary_key number(12,0) PRIMARY KEY,
+transaction_id NUMBER(12,0),
+first_name VARCHAR(255),
+last_name VARCHAR(255),
+salary NUMBER(15,0),
+office_location VARCHAR(255),
+effective_date VARCHAR(255)
+);
+
+COMMIT;
