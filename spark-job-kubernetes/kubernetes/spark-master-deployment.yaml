@@ -14,11 +14,11 @@ spec:
     spec:
       containers:
         - name: spark-master
-          image: spark-hadoop:3.0.0
+          image: spark-hadoop:2.4.5
           command: ["/spark-master"]
           ports:
             - containerPort: 7077
-            - containerPort: 8080
+            - containerPort: 8085
           resources:
             requests:
               cpu: 100m

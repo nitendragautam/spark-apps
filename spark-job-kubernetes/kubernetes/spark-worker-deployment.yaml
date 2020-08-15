@@ -14,10 +14,10 @@ spec:
     spec:
       containers:
         - name: spark-worker
-          image: spark-hadoop:3.0.0
+          image: spark-hadoop:2.4.5
           command: ["/spark-worker"]
           ports:
-            - containerPort: 8081
+            - containerPort: 8086
           resources:
             requests:
               cpu: 100m

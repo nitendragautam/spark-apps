@@ -1,66 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d7643d2-6357-41ee-835b-6d6f75bd0d90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../jsch_remoteconnectiom/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../jsch_remoteconnectiom/build.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../jsch_remoteconnectiom/project/build.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../jsch_remoteconnectiom/project/plugins.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../jsch_remoteconnectiom/src/main/resources/application.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../jsch_remoteconnectiom/src/main/scala/com/nitendratech/jschremoteconnection/JschRemoteService.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../jsch_remoteconnectiom/src/main/scala/com/nitendratech/jschremoteconnection/RemoteServiceMain.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_core/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../../scala_core/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_core/src/main/scala/com/nitendratech/multithreading/ParallelCollect.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../scala_core/src/main/scala/com/nitendratech/multithreading/ParallelCollect.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_core/src/main/scala/com/nitendratech/scalablog/ScalaFunctions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../scala_core/src/main/scala/com/nitendratech/scalablog/ScalaFunctions.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/README.MD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/build.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/2016-stack-overflow-survey-responses.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/MN212142_9392.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/RealEstate.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/TX417945_8515.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/fakefriends.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/food_aggregration/food_items.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/inputWordCount.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/allbut.pl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/mku.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u.genre" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u.item" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u.occupation" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u1.base" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u1.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u2.base" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u2.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u3.base" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u3.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u4.base" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u4.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u5.base" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/u5.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/ua.base" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/ua.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/ub.base" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/ml-100k/ub.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/mod_proposal.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/nepaldata/API_NPL_DS2_en_csv_v2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/nepaldata/Metadata_Country_API_NPL_DS2_en_csv_v2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/nepaldata/Metadata_Indicator_API_NPL_DS2_en_csv_v2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/people 2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/people.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/rollingsales_bronx.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/rollingsales_bronx.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/titus_andronicus.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/datasets/trafficData210199.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/project/assembly.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/project/build.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/src/main/scala/com/nitendratech/scalaspark/sparkbatch/RatingCounter.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/src/main/scala/com/nitendratech/scalaspark/sparksql/DataFrames.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../scala_spark/src/main/scala/com/nitendratech/scalaspark/sparksql/FakeFriends.scala" beforeDir="false" />
+    <list default="true" id="a2bee955-b32b-4bb5-a90f-7038e615230a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../spark-job-kubernetes/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-job-kubernetes/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-job-kubernetes/create.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-job-kubernetes/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-job-kubernetes/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-job-kubernetes/docker/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-job-kubernetes/docker/common.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-job-kubernetes/docker/spark-master" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-job-kubernetes/docker/spark-master" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-job-kubernetes/docker/spark-worker" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-job-kubernetes/docker/spark-worker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-job-kubernetes/kubernetes/minikube-ingress.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-job-kubernetes/kubernetes/minikube-ingress.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-job-kubernetes/kubernetes/spark-master-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-job-kubernetes/kubernetes/spark-master-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-job-kubernetes/kubernetes/spark-master-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-job-kubernetes/kubernetes/spark-master-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-job-kubernetes/kubernetes/spark-worker-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-job-kubernetes/kubernetes/spark-worker-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-job-kubernetes/spark_submit_kubernetes.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-job-kubernetes/spark_submit_kubernetes.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_6_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_all_4_1_17_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_orc_orc_core_1_5_2_nohive_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_orc_orc_mapreduce_1_5_2_nohive_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_orc_orc_shims_1_5_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_10_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_10_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_10_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_10_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_10_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_12_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_core_2_12_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_kvstore_2_12_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_12_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_12_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_12_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_sketch_2_12_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_sql_2_12_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_streaming_2_12_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_tags_2_12_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_12_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spark_general.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spark_general.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/nitendratech/sparkgeneral/sparksql/GenerateUnqiueId.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/2016-stack-overflow-survey-responses.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,41 +57,20 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="SBT">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="spark_general" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="spark_general" type="f1a62948:ProjectNode" />
-                <item name="spark_general" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="spark_general" type="f1a62948:ProjectNode" />
-                <item name="spark_general" type="2d1252cf:ModuleNode" />
-                <item name="sbt commands" type="5c424813:SbtViewContributor$SbtCommandsGroupNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1c0Ahku58UJxdOTCMxfgc3ZGoJE" />
+  <component name="ProjectId" id="1fvvkY6e4BqbSkR4Xm3hxFuvMHU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -120,45 +81,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.49586016" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
   </component>
-  <component name="RunManager" selected="Application.SparksesionExample">
-    <configuration name="DataFrames" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.nitendratech.scalaspark.sparksql.DataFrames" />
+  <component name="RunManager">
+    <configuration name="DataframeTut" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.nitendratech.sparkgeneral.dataframes.DataframeTut" />
       <module name="spark_general" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nitendratech.scalaspark.sparksql.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RatingsCounter" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.nitendratech.scalaspark.sparkbatch.RatingsCounter" />
-      <module name="spark_general" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nitendratech.scalaspark.sparkbatch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SparksesionExample" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.nitendratech.sparkgeneral.blog.SparksesionExample" />
-      <module name="spark_general" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nitendratech.sparkgeneral.blog.*" />
+          <option name="PATTERN" value="com.nitendratech.sparkgeneral.dataframes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,9 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SparksesionExample" />
-        <item itemvalue="Application.DataFrames" />
-        <item itemvalue="Application.RatingsCounter" />
+        <item itemvalue="Application.DataframeTut" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +116,7 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="spark_general [file:/Users/nitendragautam/nitendra_items/github_projects/scala-apps/spark_apps/spark_general/]" />
+                <option name="name" value="spark_general_scala [file:/Users/nitendragautam/github_projects/spark-apps/spark_general_scala/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -201,8 +130,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4762645923859" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="345140964" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2932460570" />
         <entry key="$PROJECT_DIR$/project/assembly.sbt" value="2573304535" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1134086237" />
       </map>
@@ -210,56 +138,50 @@
     <option name="projectSyncType">
       <map>
         <entry key="$USER_HOME$/Desktop/sample_projects" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../interview_prep/java_scala" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../accesslogs_parser" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../akka" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../influxdb" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../jsch_remoteconnectiom" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../scala_core" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../scala_spark" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../spark-projects/java_scala_spark" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../spark-projects/sjs" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../gitlab_projects/big_data_projects/sparkapplications" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../gitlab_projects/java-scala-projects/ScalaLearning" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../gitlab_projects/scala_projects/ScalaLearning" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../gitlab_projects/spark_applications" value="PREVIEW" />
+        <entry key="$USER_HOME$/nitendra_items/github_projects/interview_prep/java_scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/nitendra_items/github_projects/scala-apps/accesslogs_parser" value="PREVIEW" />
+        <entry key="$USER_HOME$/nitendra_items/github_projects/scala-apps/akka" value="PREVIEW" />
+        <entry key="$USER_HOME$/nitendra_items/github_projects/scala-apps/influxdb" value="PREVIEW" />
+        <entry key="$USER_HOME$/nitendra_items/github_projects/scala-apps/jsch_remoteconnectiom" value="PREVIEW" />
+        <entry key="$USER_HOME$/nitendra_items/github_projects/scala-apps/scala_core" value="PREVIEW" />
+        <entry key="$USER_HOME$/nitendra_items/github_projects/scala-apps/scala_spark" value="PREVIEW" />
+        <entry key="$USER_HOME$/nitendra_items/github_projects/scala-apps/spark_apps/spark_general" value="PREVIEW" />
+        <entry key="$USER_HOME$/nitendra_items/github_projects/scala-apps/spark_submit_rest_api" value="PREVIEW" />
+        <entry key="$USER_HOME$/nitendra_items/github_projects/spark-projects/java_scala_spark" value="PREVIEW" />
+        <entry key="$USER_HOME$/nitendra_items/github_projects/spark-projects/sjs" value="PREVIEW" />
+        <entry key="$USER_HOME$/nitendra_items/gitlab_projects/big_data_projects/sparkapplications" value="PREVIEW" />
+        <entry key="$USER_HOME$/nitendra_items/gitlab_projects/java-scala-projects/ScalaLearning" value="PREVIEW" />
+        <entry key="$USER_HOME$/nitendra_items/gitlab_projects/scala_projects/ScalaLearning" value="PREVIEW" />
+        <entry key="$USER_HOME$/nitendra_items/gitlab_projects/spark_applications" value="PREVIEW" />
       </map>
     </option>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3d7643d2-6357-41ee-835b-6d6f75bd0d90" name="Default Changelist" comment="" />
-      <created>1589655258595</created>
+      <changelist id="a2bee955-b32b-4bb5-a90f-7038e615230a" name="Default Changelist" comment="" />
+      <created>1597111523366</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589655258595</updated>
+      <updated>1597111523366</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1868" height="291" key="GridCell.Tab.0.bottom" timestamp="1590361458852">
+    <state width="1868" height="291" key="GridCell.Tab.0.bottom" timestamp="1597114701966">
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
-    <state width="1868" height="291" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1590361458852" />
-    <state width="1740" height="291" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1020@1792.23.1920.1057" timestamp="1590360262084" />
-    <state width="1868" height="291" key="GridCell.Tab.0.center" timestamp="1590361458851">
+    <state width="1868" height="291" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1597114701966" />
+    <state width="1868" height="291" key="GridCell.Tab.0.center" timestamp="1597114701965">
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
-    <state width="1868" height="291" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1590361458851" />
-    <state width="1740" height="291" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1020@1792.23.1920.1057" timestamp="1590360262083" />
-    <state width="1868" height="291" key="GridCell.Tab.0.left" timestamp="1590361458851">
+    <state width="1868" height="291" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1597114701965" />
+    <state width="1868" height="291" key="GridCell.Tab.0.left" timestamp="1597114701964">
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
-    <state width="1868" height="291" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1590361458851" />
-    <state width="1740" height="291" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1020@1792.23.1920.1057" timestamp="1590360262082" />
-    <state width="1868" height="291" key="GridCell.Tab.0.right" timestamp="1590361458852">
+    <state width="1868" height="291" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1597114701964" />
+    <state width="1868" height="291" key="GridCell.Tab.0.right" timestamp="1597114701965">
       <screen x="1792" y="0" width="1920" height="1080" />
     </state>
-    <state width="1868" height="291" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1590361458852" />
-    <state width="1740" height="291" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1020@1792.23.1920.1057" timestamp="1590360262083" />
-    <state x="2152" y="39" key="SettingsEditor" timestamp="1590354031026">
-      <screen x="1792" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2152" y="39" key="SettingsEditor/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1590354031026" />
+    <state width="1868" height="291" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1597114701965" />
   </component>
 </project>

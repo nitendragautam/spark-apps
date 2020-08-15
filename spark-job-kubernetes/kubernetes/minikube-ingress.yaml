@@ -11,4 +11,4 @@ spec:
       - path: /
         backend:
           serviceName: spark-master
-          servicePort: 8080
+          servicePort: 8085
