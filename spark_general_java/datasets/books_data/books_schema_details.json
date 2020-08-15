@@ -1,0 +1,14 @@
+{
+  "book_details": [
+    "book.id AS book_id",
+    "book.authorId AS author_id",
+    "book.title AS author_title",
+    "book.releaseDate",
+    "book.link AS amazon_link"
+  ],
+  "author_details": [
+    "author.id AS auth_id",
+    "author.name AS author_name",
+    "author.link AS amazon_link"
+  ]
+}
