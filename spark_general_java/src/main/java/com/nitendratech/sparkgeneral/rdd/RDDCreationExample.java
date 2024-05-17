@@ -16,7 +16,7 @@ public class RDDCreationExample {
 
         Logger.getLogger("org").setLevel(Level.ERROR);
 
-        SparkConf conf = new SparkConf().setAppName("CountExample").setMaster("local[*]");
+        SparkConf conf = new SparkConf().setAppName("RDDCreationExample").setMaster("local[*]");
         JavaSparkContext sparkContext = new JavaSparkContext(conf);
 
         List<String> fruitList = Arrays.asList("apple", "orange","banana","pear",
@@ -46,8 +46,6 @@ public class RDDCreationExample {
             System.out.println(entry.getKey() + " : " +entry.getValue());
 
         }
-
-
 
 
         // Calling Reduce Action

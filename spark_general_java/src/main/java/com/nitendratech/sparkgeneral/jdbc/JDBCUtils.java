@@ -59,6 +59,8 @@ public class JDBCUtils {
     public static void main(String args[]) throws SQLException {
 
         // Testing the code
+        System.out.println("Testing the code");
+
 
         Connection connection = JDBCUtils.getConnection();
 
